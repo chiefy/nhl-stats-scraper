@@ -13,5 +13,5 @@ I do not condone or encourage site scraping, this is simply a programming exerci
 ## To Run
 Clone repo and then 
 ```bash
-$ npm run
+$ npm run scrape
 ```
